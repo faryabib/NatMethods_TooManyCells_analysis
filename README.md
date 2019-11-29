@@ -1,2 +1,2 @@
 # NatMethods_TooManyCells_analysis
-Analyses for Nat Methods TooManyCells manuscript
+Analysis for Nat Methods TooManyCells manuscript.
